@@ -211,7 +211,7 @@ def get_model_bundle() -> ModelBundle:
         _bundle = ModelBundle()
     return _bundle
 
-
+##hbelherjhern erbhrhfurhfurffrfirfirfrnfirur
 def reload_model_bundle() -> ModelBundle:
     """Force a reload - useful after swapping in a new model file without
     restarting the server."""
